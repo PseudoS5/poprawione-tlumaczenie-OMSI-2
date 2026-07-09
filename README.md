@@ -14,9 +14,4 @@ Między innymi:
 
 <b>Instalacja:</b>
 1. Rozpakować archiwum
-2. Przenieść wszystkie pliki do katalogi OMSI 2/Languages
-
- 
-[b]Screeny:[/b]
-[spoiler][align=center]
-[img]adres obrazka[/img]
+2. Przenieść wszystkie pliki .olf do katalogu OMSI 2/Languages
